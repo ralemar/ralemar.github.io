@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+    
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://ralemar.github.io/es/categories/" hreflang="es"/>
+      <xhtml:link rel="alternate" href="https://ralemar.github.io/categories/" hreflang="en"/>
+    
+      <loc>https://ralemar.github.io/es/categories/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://ralemar.github.io/es/publication_types/" hreflang="es"/>
+      <xhtml:link rel="alternate" href="https://ralemar.github.io/publication_types/" hreflang="en"/>
+    
+      <loc>https://ralemar.github.io/es/publication_types/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://ralemar.github.io/es/" hreflang="es"/>
+      <xhtml:link rel="alternate" href="https://ralemar.github.io/" hreflang="en"/>
+    
+      <loc>https://ralemar.github.io/es/</loc>
+      <lastmod>2017-10-15T00:00:00+02:00</lastmod>
+      <priority>0</priority>
+    </url>
+    
+  
+    
+    
+    <url>
+    
+      <xhtml:link rel="alternate" href="https://ralemar.github.io/es/tags/" hreflang="es"/>
+      <xhtml:link rel="alternate" href="https://ralemar.github.io/tags/" hreflang="en"/>
+    
+      <loc>https://ralemar.github.io/es/tags/</loc>
+      <priority>0</priority>
+    </url>
+    
+  
+</urlset>
