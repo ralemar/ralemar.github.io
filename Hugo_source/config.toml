@@ -253,15 +253,6 @@ defaultContentLanguageInSubdir = false
   weight = 1
 
 [[Languages.en.menu.main]]
-  name = "Publications"
-  url = "#publications_selected"
-  weight = 2
-[[Languages.es.menu.main]]
-  name = "Publicaciones"
-  url = "#publications_selected"
-  weight = 2
-
-[[Languages.en.menu.main]]
   name = "Posts"
   url = "#posts"
   weight = 3
@@ -278,15 +269,6 @@ defaultContentLanguageInSubdir = false
   name = "Proyectos"
   url = "#projects"
   weight = 4
-
-[[Languages.en.menu.main]]
-  name = "Teaching"
-  url = "#teaching"
-  weight = 5
-[[Languages.es.menu.main]]
-  name = "Enseñanza"
-  url = "#teaching"
-  weight = 5
 
 [[Languages.en.menu.main]]
   name = "Contact"
