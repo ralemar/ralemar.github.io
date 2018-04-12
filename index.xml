@@ -119,7 +119,7 @@ $$
 &lt;p&gt;bla blackfriday&lt;/p&gt;
 
 &lt;div&gt;
-&lt;video width=&#34;100%&#34; controls loop autoplay&gt;
+&lt;video width=&#34;100%&#34; controls loop autoplay muted&gt;
   &lt;source src=&#34;https://ralemar.github.io/img/joint_animation.mp4&#34; type=&#34;video/mp4&#34;&gt;
 Your browser does not support the video tag.
 &lt;/video&gt;
